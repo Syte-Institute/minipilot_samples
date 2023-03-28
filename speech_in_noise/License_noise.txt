@@ -1,0 +1,5 @@
+
+Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+
+Thiemann, Joachim, Ito, Nobutaka, & Vincent, Emmanuel. (2013). DEMAND: a collection of multi-channel recordings of acoustic noise in diverse environments (1.0) [Data set]. 21st International Congress on Acoustics (ICA 2013), Montreal, Canada. Zenodo. https://doi.org/10.5281/zenodo.1227121
+
